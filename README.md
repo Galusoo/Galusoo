@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Lorenzo Galluzzi, an aspiring **Economics, Management,
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Innovative tech projects combining **economics** and **computer science**.
-- 🌱 **Currently learning:** Advanced **Python** programming and **Solidity** for blockchain development.
+- 🌱 **Currently learning:** Advanced **Python** programming and some **SQL** and **R** for data analysis.
 - 💡 **Recent Projects:**
   - 📊 **Telegram Stock Info Bot**: Created a bot to provide real-time stock data and analytics, leveraging APIs for instant updates.
   - 🔗 **DeFi Lending Platform**: Designed a decentralized platform using **Solidity** and blockchain for secure and automated financial solutions.
